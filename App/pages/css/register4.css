@@ -1,0 +1,173 @@
+.container{
+    width: 7.5rem;
+    height: 13.34rem;
+    margin: 0 auto;
+    position: relative;
+}
+.container img{
+    width: 7.5rem;
+    height: 13.34rem;
+}
+.shade{
+    width: 7.5rem;
+    height: 13.34rem;
+    background-color: #000000;
+    opacity: 0.6;
+    margin: 0 auto;
+    position: absolute;
+    top:0;
+}
+.bottom{
+    width: 4.38rem;
+    height: 3.62rem;
+    background-color: #ffffff;
+    border-radius: 0.1rem;
+    opacity: 0.42;
+    position: absolute;
+    bottom:4.37rem;
+    left: 1.64rem;
+}
+.second{
+    width: 5.07rem;
+    height: 3.92rem;
+    background-color: #ffffff;
+    border-radius: 0.1rem;
+    opacity: 0.41;
+    margin: 0 auto;
+    position: absolute;
+    bottom:4.57rem;
+    left:1.26rem
+}
+.first{
+    width: 5.61rem;
+    height: 4.16rem;
+    background-color: #ffffff;
+    border-radius: 0.1rem;
+    position: absolute;
+    bottom:4.77rem;
+    left: 0.9rem;
+}
+.username{
+    width: 4.02rem;
+    height: 0.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: 0.4rem auto 0;
+}
+.first div.active{
+    margin: 0.2rem auto;
+}
+.username-img{
+    width: 0.5rem;
+    height: 0.5rem;
+}
+.username-img img{
+    width: 0.5rem;
+    height: 0.5rem;
+}
+.circle{
+    width: 3.27rem;
+    height: 0.47rem;
+    border: solid 0.02rem #e5004f;
+    border-radius: 0.21rem;
+    display: flex;
+}
+.circle1{
+    width: 3.27rem;
+    height: 0.47rem;
+    border: solid 0.02rem #e5004f;
+    border-radius: 0.4rem;
+    display: flex;
+}
+input{
+    width: 1.89rem;
+    height: 0.2rem;
+    font-size: 0.2rem;
+    color: #000000;
+    opacity: 0.2;
+    margin-left: 0.2rem;
+    margin-top: 0.12rem;
+}
+.circle i{
+    color: green;
+    margin-top: 0.05rem;
+    margin-left: 0.5rem;
+}
+.circle1 i{
+    color: green;
+    margin-top: 0.05rem;
+    margin-left:1rem;
+}
+.ac{
+    color: #000000;
+    opacity: 1;
+}
+.dot{
+    width: 0.06rem;
+    height: 0.06rem;
+    background-color: #e5004f;
+    border-radius: 50%;
+    margin-left: 0.2rem;
+    margin-top: 0.18rem;
+}
+.dot1{
+    width: 0.06rem;
+    height: 0.06rem;
+    background-color: #000;
+    border-radius: 50%;
+    margin-left: 0.2rem;
+    margin-top: 0.18rem;
+}
+.register{
+    width: 2.57rem;
+    height: 0.54rem;
+    background-color: #e5004f;
+    font-size: 0.28rem;
+    text-align: center;
+    line-height: 0.54rem;
+    border-radius: 0.28rem;
+    color: #ffffff;
+    margin-left: 1.64rem;
+    margin-top: 0.5rem;
+}
+.login{
+    width: 1.53rem;
+    height: 0.54rem;
+    background-color: #e5004f;
+    border-radius: 0.28rem;
+    font-size: 0.28rem;
+    color: #ffffff;
+    text-align: center;
+    line-height: 0.54rem;
+    position: absolute;
+    top:0.6rem;
+    right: 0.39rem;
+}
+.false{
+    width: 2.2rem;
+    height: 0.18rem;
+    /*margin-top: 0.15rem;*/
+    margin-left: 1.71rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+
+}
+.false-img{
+    width: 0.22rem;
+    height: 0.22rem;
+}
+.false-img i{
+    font-size: 0.2rem;
+    color:#ff0c3a;
+}
+.false-item{
+    font-size: 0.18rem;
+    color: #ff0c3a;
+}
+i{
+    color: green;
+    margin-top: 0.1rem;
+    margin-left: 1rem;
+}
